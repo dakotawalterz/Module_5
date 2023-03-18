@@ -1,1 +1,3 @@
 # Module_5
+
+This Erlang code implements a command-line Tic Tac Toe game. It allows two players to take turns placing their symbol (X or O) on a 3x3 board until a player wins or the game ends in a draw. The code uses guards, recursion, lists, displaying using format, lambda functions, pattern matching, and throwing and handling exceptions. The game logic is implemented through a series of functions that allow players to make moves, print the board, and check for a win or draw. The game loop is implemented using recursion and the game terminates when a win or draw condition is met.
